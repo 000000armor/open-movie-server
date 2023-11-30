@@ -1,4 +1,4 @@
 dist
 .eslintrc.cjs
 .prettierrc.cjs
-.env
+
